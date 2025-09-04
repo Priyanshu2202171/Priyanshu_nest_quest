@@ -1,6 +1,6 @@
-# HarshNestQuest - Real Estate Web App 🏠.
+# PriyanshuNestQuest - Real Estate Web App 🏠.
 
-HarshNestQuest is a responsive real estate web application that allows users to list, browse, rent, or buy properties with ease.
+PriyanshuNestQuest is a responsive real estate web application that allows users to list, browse, rent, or buy properties with ease.
 
 ---
 
