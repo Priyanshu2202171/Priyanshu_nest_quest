@@ -23,9 +23,7 @@ PriyanshuNestQuest is a responsive real estate web application that allows users
 - 🗺️ Interactive property maps (Leaflet)
 - 📱 Responsive design
 
----
 
-## 🚀 Getting Started
 
 ### 1. Clone the repository
 
